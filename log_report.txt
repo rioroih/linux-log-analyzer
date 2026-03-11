@@ -1,0 +1,20 @@
+Linux Log Analysis Report
+Generated on: Thu Mar 12 12:23:21 AM IST 2026
+--------------------------
+Total Errors: 20
+Total Warnings: 17
+
+Recent Errors:
+Mar 11 23:10:11 localhost gnome-session[4035]: gnome-session-binary[4035]: GnomeDesktop-WARNING: Could not create transient scope for PID 4309: GDBus.Error:org.freedesktop.DBus.Error.UnixProcessIdUnknown: Process with ID 4309 does not exist.
+Mar 11 23:10:11 localhost gnome-session-binary[4035]: GnomeDesktop-WARNING: Could not create transient scope for PID 4309: GDBus.Error:org.freedesktop.DBus.Error.UnixProcessIdUnknown: Process with ID 4309 does not exist.
+Mar 11 23:10:11 localhost gnome-shell[4054]: Error looking up permission: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for geolocation
+Mar 11 23:10:12 localhost gsd-usb-protect[4330]: Failed to fetch USBGuard parameters: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+Mar 11 23:29:03 localhost dnf[4748]: Error: Cannot open file "/var/cache/dnf/appstream-831abc7e9d6a1a72/repodata/ee4add63c97206593527bec0807b8da6d02b7c3a7d7aabeccc73c5a3fde292cb-modules.yaml.xz": No such file or directory
+
+Recent Warnings:
+Mar 11 23:10:11 localhost gnome-session-binary[4035]: GnomeDesktop-WARNING: Could not create transient scope for PID 4252: GDBus.Error:org.freedesktop.DBus.Error.UnixProcessIdUnknown: Process with ID 4252 does not exist.
+Mar 11 23:10:11 localhost gnome-session[4035]: gnome-session-binary[4035]: GnomeDesktop-WARNING: Could not create transient scope for PID 4271: GDBus.Error:org.freedesktop.DBus.Error.UnixProcessIdUnknown: Process with ID 4271 does not exist.
+Mar 11 23:10:11 localhost gnome-session-binary[4035]: GnomeDesktop-WARNING: Could not create transient scope for PID 4271: GDBus.Error:org.freedesktop.DBus.Error.UnixProcessIdUnknown: Process with ID 4271 does not exist.
+Mar 11 23:10:11 localhost gnome-session[4035]: gnome-session-binary[4035]: GnomeDesktop-WARNING: Could not create transient scope for PID 4309: GDBus.Error:org.freedesktop.DBus.Error.UnixProcessIdUnknown: Process with ID 4309 does not exist.
+Mar 11 23:10:11 localhost gnome-session-binary[4035]: GnomeDesktop-WARNING: Could not create transient scope for PID 4309: GDBus.Error:org.freedesktop.DBus.Error.UnixProcessIdUnknown: Process with ID 4309 does not exist.
+
